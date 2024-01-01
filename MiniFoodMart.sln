@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniFoodMart", "MiniFoodMart\MiniFoodMart.csproj", "{6C15276C-A8DC-49A6-A59B-E46916111BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrary", "CommonLibrary\CommonLibrary.csproj", "{FD5E8691-8609-4690-A85E-405BA32C0236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C15276C-A8DC-49A6-A59B-E46916111BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C15276C-A8DC-49A6-A59B-E46916111BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C15276C-A8DC-49A6-A59B-E46916111BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C15276C-A8DC-49A6-A59B-E46916111BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5E8691-8609-4690-A85E-405BA32C0236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5E8691-8609-4690-A85E-405BA32C0236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5E8691-8609-4690-A85E-405BA32C0236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5E8691-8609-4690-A85E-405BA32C0236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488539E9-300F-46F0-9F51-1173288A1E7E}
+	EndGlobalSection
+EndGlobal
